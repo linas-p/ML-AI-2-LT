@@ -277,3 +277,10 @@ Jei tyrinėjantis algoritmas suteikia atlygį naujiems (prieštai nebandytiems) 
 | Zero padding                                               | Papildymas nuliais                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 # Papildymui
+| **Sąvoka**                                                 | **Vertimas**                                                | **Pastabos/paaiškinamas**     
+| Padding                                               |                                           |      
+| Pooling layer                                               |                                           |      
+| Convolutional layer                                               |                                           |      
+|Striding                                               |                                           |       
+|Feature map                                               |                                           |       
+|Reguliarization                                               |                                           |       
