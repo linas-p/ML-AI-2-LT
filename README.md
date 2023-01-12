@@ -284,3 +284,4 @@ Jei tyrinėjantis algoritmas suteikia atlygį naujiems (prieštai nebandytiems) 
 |Striding                                               |                                           |       
 |Feature map                                               |                                           |       
 |Reguliarization                                               |                                           |       
+|
